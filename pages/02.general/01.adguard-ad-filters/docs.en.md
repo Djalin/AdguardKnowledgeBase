@@ -29,7 +29,7 @@ visible: true
 
 ## Introduction
 
-Filter is a set of filtering rules for advertising content (banners, pop-ups and such). AdGuard is supplied with a set of standard filters created by us. They are being constantly improved and supplemented, and hopefully satisfy most users. From time to time, each AdGuard application checks for updates of all enabled ad filters.
+Filter a is a set of filtering rules for advertising content (banners, pop-ups and such). AdGuard is supplied with a set of standard filters created by us. They are being constantly improved and supplemented, and hopefully satisfy most users. From time to time, each AdGuard application checks for updates of all enabled ad filters.
 
 There are several options to tell us about the problem with advertising filters. You can send a complaint via the program or browser extension, or you can contact us on the [forum](https://forum.adguard.com/?langid=1).
 
